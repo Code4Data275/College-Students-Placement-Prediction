@@ -20,8 +20,7 @@ A machine learning project that predicts whether a student will get placed based
 ## 🔍 Exploratory Data Analysis (EDA)  
 - 📈 Statistical Summary  
 - 📊 Distribution plots for IQ, CGPA, and skills  
-- 🧩 Correlation heatmap  
-- 🚨 Outlier detection  
+- 📊 Bar plot for Internship Experience
 
 ---
 
