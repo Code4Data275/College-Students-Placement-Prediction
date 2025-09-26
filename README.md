@@ -67,6 +67,3 @@ A machine learning project that predicts whether a student will get placed based
 💼 Aspiring Data Scientist
 
 ---
-
-
-## 📂 Project Structure  
